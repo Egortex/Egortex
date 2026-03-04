@@ -1,8 +1,8 @@
 ### Hi there, I'm Egor 👋
 
-<p align='center'>
+<!-- <p align='center'>
  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egortex&layout=compact"/></a>
-</p>
+</p> -->
 
 ## 🌟 I study programming, System Design, architecture
 
