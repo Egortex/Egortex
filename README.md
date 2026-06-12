@@ -4,7 +4,7 @@
  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egortex&layout=compact"/></a>
 </p> -->
 
-## 🌟 I study programming, System Design, architecture
+## 🌟 I study programming, System Design, architecture, AI
 
 ## 🛠 Language & Stack & Libraries
 
@@ -17,13 +17,17 @@
 
 ## 📗 I plan to study
 
-- React Native
-- Gatsby
-- Jest
-- PyTest
-- Analytics
-- Kubernetes
-- nx
+- GO
 
-## ❤️ I love Full Stack
+## Engineering Roadmap
+- ✅ Published an npm package.
+- ✅ Developed and published a VS Code extension.
+- 🚧 Building a browser-based IDE (Web IDE).
+- 🚧 Developing a custom database engine.
+- 🚧 Creating a regular expression engine (Regex Engine).
+- 🚧 Designing a custom network communication protocol.
+- 🚧 Developing a search engine.
+- 🚧 Creating a programming language.
+- 🚧 Building a compiler and virtual machine.
 
+Goal: Understand and implement the core technologies that power modern software ecosystems, from programming languages and databases to distributed systems and operating systems.
