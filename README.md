@@ -22,7 +22,7 @@
 ## Engineering Roadmap
 - ✅ Published an npm package.
 - ✅ Developed and published a VS Code extension.
-- 🚧 SSO
+- ✅ SSO
 - 🚧 Building a browser-based IDE (Web IDE).
 - 🚧 Developing a custom database engine.
 - 🚧 Creating a regular expression engine (Regex Engine).
